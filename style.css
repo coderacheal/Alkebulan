@@ -1,0 +1,16 @@
+.mapdiv {
+    width: 120%;
+    margin-top: 50px;
+}
+
+.mapdiv path {
+    stroke: #fff;
+}
+
+.mapdiv a :hover {
+    fill: rgb(23, 22, 22);
+}
+
+body {
+    height: 2000px;
+}
