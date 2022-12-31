@@ -20,7 +20,7 @@
 - [📝 License](#license)
 
 
-# 📖 [Porfolio] <a name="about-project"></a>
+# 📖 [Alkebulan] <a name="about-project"></a>
 
 
 **Alkebulan** is a website that provides information on the culture and economy of African countries. The map is interactive and gives you a preview based on the country selected. It consumes data from the World Bank API.
@@ -28,8 +28,6 @@
 ## 🛠 Built With <a name="HTML"></a>
 
 ### 🖥️ Tech Stack <a name="CSS"></a>
-
-### 🖥️ Tech Stack <a name="JavaScript"></a>
 
 - HTML
 - CSS
